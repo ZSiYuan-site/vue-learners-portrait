@@ -1,0 +1,15 @@
+<template>
+  <div
+    class="content-page"
+    style="background: red; padding-top: 50px; height: 800px; flex: 1"
+  >
+    畅学卡
+  </div>
+</template>
+
+<script>
+export default {};
+</script>
+
+<style>
+</style>

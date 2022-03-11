@@ -1,0 +1,2543 @@
+{
+    "id": "1",
+    "name": "根结点",
+    "label": null,
+    "parentid": null,
+    "isshow": null,
+    "orderby": null,
+    "isleaf": null,
+    "children": [{
+            "id": "1-1",
+
+            "name": "前端开发",
+            "label": null,
+            "parentid": null,
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-1-1",
+
+                    "name": "HTML/CSS",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-1-2",
+
+                    "name": "JavaScript",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-1-3",
+
+                    "name": "jQuery",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-1-4",
+
+                    "name": "ExtJS",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-1-5",
+
+                    "name": "AngularJS",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-1-6",
+
+                    "name": "ReactJS",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-1-7",
+
+                    "name": "Bootstrap",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-1-8",
+
+                    "name": "Node.js",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-1-9",
+
+                    "name": "Vue",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-1-10",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-2",
+
+            "name": "移动开发",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-2-1",
+                    "name": "微信开发",
+                    "label": null,
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-2-2",
+
+                    "name": "iOS",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-2-3",
+
+                    "name": "手游开发",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-2-4",
+
+                    "name": "Swift",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-2-5",
+
+                    "name": "Android",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-2-6",
+
+                    "name": "ReactNative",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-2-7",
+
+                    "name": "Cordova",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-2-8",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-3",
+
+            "name": "编程开发",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-3-1",
+
+                    "name": "C/C++",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-3-2",
+
+                    "name": "Java",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-3-3",
+
+                    "name": ".NET",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-3-4",
+
+                    "name": "Objective-C",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-3-5",
+
+                    "name": "Go语言",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-3-6",
+
+                    "name": "Python",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-3-7",
+
+                    "name": "Ruby/Rails",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-3-8",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-4",
+
+            "name": "数据库",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-4-1",
+
+                    "name": "Oracle",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-4-2",
+
+                    "name": "MySQL",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-4-3",
+
+                    "name": "SQL Server",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-4-4",
+
+                    "name": "DB2",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-4-5",
+
+                    "name": "NoSQL",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-4-6",
+
+                    "name": "Mongo DB",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-4-7",
+
+                    "name": "Hbase",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-4-8",
+
+                    "name": "数据仓库",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-4-9",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-5",
+
+            "name": "人工智能",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-5-1",
+
+                    "name": "机器学习",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-5-2",
+
+                    "name": "深度学习",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-5-3",
+
+                    "name": "语音识别",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-5-4",
+
+                    "name": "计算机视觉",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-5-5",
+
+                    "name": "NLP",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-5-6",
+
+                    "name": "强化学习",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-5-7",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-6",
+
+            "name": "云计算/大数据",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-6-1",
+
+                    "name": "Spark",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-6-2",
+
+                    "name": "Hadoop",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-6-3",
+
+                    "name": "OpenStack",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-6-4",
+
+                    "name": "Docker/K8S",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-6-5",
+
+                    "name": "云计算基础架构",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-6-6",
+
+                    "name": "虚拟化技术",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-6-7",
+
+                    "name": "云平台",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-6-8",
+
+                    "name": "ELK",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-6-9",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-7",
+
+            "name": "UI设计",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-7-1",
+
+                    "name": "Photoshop",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-2",
+
+                    "name": "3Dmax",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-3",
+
+                    "name": "Illustrator",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-4",
+
+                    "name": "Flash",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-5",
+
+                    "name": "Maya",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-6",
+
+                    "name": "AUTOCAD",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-7",
+
+                    "name": "UG",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-8",
+
+                    "name": "SolidWorks",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-9",
+
+                    "name": "CorelDraw",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-10",
+
+                    "name": "InDesign",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-11",
+
+                    "name": "Pro/Engineer",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-12",
+
+                    "name": "Cinema 4D",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-13",
+
+                    "name": "3D Studio",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-14",
+
+                    "name": "After Effects（AE）",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-15",
+
+                    "name": "原画设计",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-16",
+
+                    "name": "动画制作",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-17",
+
+                    "name": "Dreamweaver",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-18",
+
+                    "name": "Axure",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-7-19",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-8",
+
+            "name": "游戏开发",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-8-1",
+
+                    "name": "Cocos",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-8-2",
+
+                    "name": "Unity3D",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-8-3",
+
+                    "name": "Flash",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-8-4",
+
+                    "name": "SpriteKit 2D",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-8-5",
+
+                    "name": "Unreal",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-8-6",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-9",
+
+            "name": "智能硬件/物联网",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-9-1",
+
+                    "name": "无线通信",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-2",
+
+                    "name": "电子工程",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-3",
+
+                    "name": "Arduino",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-4",
+
+                    "name": "体感技术",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-5",
+
+                    "name": "智能硬件",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-6",
+
+                    "name": "驱动/内核开发",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-7",
+
+                    "name": "单片机/工控",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-8",
+
+                    "name": "WinCE",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-9",
+
+                    "name": "嵌入式",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-10",
+
+                    "name": "物联网技术",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-9-11",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-10",
+
+            "name": "研发管理",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-10-1",
+
+                    "name": "敏捷开发",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-10-2",
+
+                    "name": "软件设计",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-10-3",
+
+                    "name": "软件测试",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-10-4",
+
+                    "name": "研发管理",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-10-5",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-11",
+
+            "name": "系统运维",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-11-1",
+
+                    "name": "Linux",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-11-2",
+
+                    "name": "Windows",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-11-3",
+
+                    "name": "UNIX",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-11-4",
+
+                    "name": "Mac OS",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-11-5",
+
+                    "name": "网络技术",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-11-6",
+
+                    "name": "路由协议",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-11-7",
+
+                    "name": "无线网络",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-11-8",
+
+                    "name": "Ngnix",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-11-9",
+
+                    "name": "邮件服务器",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-11-10",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-12",
+
+            "name": "产品经理",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-12-1",
+
+                    "name": "交互设计",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-12-2",
+
+                    "name": "产品设计",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-12-3",
+
+                    "name": "原型设计",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-12-4",
+
+                    "name": "用户体验",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-12-5",
+
+                    "name": "需求分析",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-12-6",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-13",
+
+            "name": "企业/办公/职场",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-13-1",
+
+                    "name": "运营管理",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-13-2",
+
+                    "name": "企业信息化",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-13-3",
+
+                    "name": "网络营销",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-13-4",
+
+                    "name": "Office/WPS",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-13-5",
+
+                    "name": "招聘/面试",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-13-6",
+
+                    "name": "电子商务",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-13-7",
+
+                    "name": "CRM",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-13-8",
+
+                    "name": "ERP",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-13-9",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        },
+        {
+            "id": "1-14",
+
+            "name": "信息安全",
+
+            "label": null,
+
+            "parentid": null,
+
+            "isshow": null,
+
+            "orderby": null,
+
+            "isleaf": null,
+
+            "children": [{
+                    "id": "1-14-1",
+
+                    "name": "密码学/加密/破解",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-14-2",
+
+                    "name": "渗透测试",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-14-3",
+
+                    "name": "社会工程",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-14-4",
+
+                    "name": "漏洞挖掘与利用",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-14-5",
+
+                    "name": "云安全",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-14-6",
+
+                    "name": "防护加固",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-14-7",
+
+                    "name": "代码审计",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-14-8",
+
+                    "name": "移动安全",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-14-9",
+
+                    "name": "病毒木马",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                },
+                {
+                    "id": "1-14-10",
+
+                    "name": "其它",
+
+                    "label": null,
+
+                    "parentid": null,
+
+                    "isshow": null,
+
+                    "orderby": null,
+
+                    "isleaf": null,
+
+                    "children": null
+
+                }
+            ]
+
+        }
+    ]
+
+}

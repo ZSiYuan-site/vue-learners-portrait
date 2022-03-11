@@ -1,0 +1,43 @@
+/* 课程箭头开始 */
+.father_arrow {
+    position: relative;
+}
+
+.course_left_arrow {
+    position: absolute;
+    top: -8px;
+    right: 62px;
+}
+
+.course_right_arrow {
+    position: absolute;
+    top: -8px;
+    right: 16px;
+}
+
+/* 课程箭头结束 */
+
+
+/* 最新资讯开始 */
+.news_father_arrow {
+    position: relative;
+}
+
+.news_left_arrow {
+    position: absolute;
+    top: -8px;
+    right: 62px;
+}
+
+.news_right_arrow {
+    position: absolute;
+    top: -8px;
+    right: 16px;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+    /* 需要设置【最新资讯】的箭头背景为透明色 */
+    background-color: transparent !important;
+}
+
+/* 最新资讯结束 */

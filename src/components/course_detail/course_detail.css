@@ -1,0 +1,18 @@
+.course_lists{
+    box-sizing: border-box;
+    padding: 15px 10px 5px 10px;
+    height: 340px;
+    overflow-y: scroll!important;
+    background-color: #f4f4f4;
+}
+.course_lists > .media {
+    padding: 5px 0px 0px 5px;
+    border-radius: 5px;
+}
+.course_lists > .media:hover{
+    background-color: #fff;
+}
+
+.info_label i:hover{
+    color: #ffb600;
+}

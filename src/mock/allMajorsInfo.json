@@ -1,0 +1,30 @@
+{
+    "code": 200,
+    "msg": "SUCCESS",
+    "data": [{
+            "id": "0",
+            "researchdirection": "researchdirection",
+            "maincourse": "maincourse",
+            "trainingobjective": "trainingobjective",
+            "majorname": "majorname",
+            "careerprospects": "aaa"
+        },
+        {
+            "id": "6158847793dd2f0bc402ce65",
+            "researchdirection": "researchdirection2",
+            "maincourse": "maincourse2",
+            "trainingobjective": "trainingobjective2",
+            "majorname": "majorname2",
+            "careerprospects": "aaa2"
+        },
+        {
+            "id": "615a8cc96f25250818059f84",
+            "researchdirection": "researchdirection2",
+            "maincourse": "maincourse2",
+            "trainingobjective": "trainingobjective2",
+            "majorname": "majorname2",
+            "careerprospects": "abcdefghijklmnopa"
+        }
+    ]
+
+}

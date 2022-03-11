@@ -1,0 +1,114 @@
+.exercise {
+    width: 100%;
+    background-color: aliceblue;
+}
+
+.exercise-main {
+    /* width: 1200px; */
+    /* background-color: red; */
+    margin: 0 auto;
+}
+
+.search-content {
+    padding: 20px;
+    /* background-color: #4089ef; */
+    background: url('./img/exercise-img.jpg') no-repeat;
+}
+
+.search-content>h1 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.introduce-text {
+    text-align: center;
+    line-height: 20px;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.introduce-text>span {
+    color: #fff;
+}
+
+.exercise-nav {
+    width: 1200px;
+    margin: 30px auto;
+}
+
+/* 详细练习   ----  组件样式   - --开始 */
+.exercise-detail {
+    width: 1200px;
+    margin: 10px auto;
+    background: red;
+    display: flex;
+    height: 1200px;
+}
+
+/* 详细练习的左边 */
+.exercise-detail-left {
+    width: 25%;
+}
+
+.exercise-detail-left>.exercise-detail-left-lists li {
+    width: 100%;
+    padding: 5px;
+    height: 50px;
+    margin: 10px 0;
+    background-color: #4089ef;
+    border-radius: 10px;
+    line-height: 50px;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* 详细练习的右边 */
+.exercise-detail-right {
+    width: 70%;
+    margin-left: 30px;
+    background-color: aquamarine;
+}
+
+
+/* 题目按照职位排序开始  */
+.cate_exercise {
+    background-color: #fff;
+    border-bottom: 1.5px solid #eeeeee;
+}
+
+.cate_exercise>.container {}
+
+.position_text {
+    text-align: center;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 600
+}
+
+.position_nav {}
+
+.position_nav>ul {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.position_nav>ul li {
+    /* width: 110px; */
+    text-align: center;
+    padding: 10px
+}
+
+/* 题目按照职位排序结束 */
+
+/* 题目按照年份排序开始 */
+.year_exercise {
+    background-color: #fff;
+}
+
+.year_exercise>.container>.position_nav>ul li {
+    width: 80px;
+    font-size: 17px;
+}

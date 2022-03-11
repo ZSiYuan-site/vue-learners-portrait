@@ -1,0 +1,106 @@
+.major_detail_header {}
+
+.title_l {
+    box-shadow: 0px 17px 17px -17px #f0f0f0;
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+.title_l>p {
+    margin-top: 10px;
+}
+
+.title_l>p span {
+    padding-right: 10px;
+    margin-left: 20px;
+}
+
+.title_l>p span:nth-child(1) {
+    margin-left: 0;
+}
+
+/* 导航 */
+.major_detail_nav .nav {
+    height: 45px;
+    width: 100%;
+    border-bottom: 1px solid #4587d9;
+}
+
+.major_detail_nav .nav>span {
+    font-size: 18px;
+    width: 125px;
+    background-color: #fbfbfc;
+    color: black;
+    height: 44px;
+    padding: 10px;
+    box-sizing: border-box;
+    line-height: 45px;
+}
+
+.major_detail_nav .nav>span:hover {
+    cursor: pointer;
+}
+
+.major_detail_nav .nav>.active {
+    background-color: #4587d9;
+    color: #fff;
+    border-bottom: 2px solid #4587d9;
+}
+
+/* 专业概况的具体内容 */
+.major_infor {
+    margin-top: 20px;
+}
+
+/* 专业简介 */
+.major_des {
+    /* border: 1px solid #eeeeee; */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.major_des h4 {
+    margin: 20px 0
+}
+
+/* 详解 */
+.details {
+    border: 1px solid #eeeeee;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* 就业行业分布 */
+.employment {
+    border: 1px solid #eeeeee;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* 就业岗位分布 */
+.position {
+    border: 1px solid #eeeeee;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* 就业地区分布 */
+.employment_area {
+    border: 1px solid #eeeeee;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* 相关专业推荐 */
+.major_recommend_box {
+    border: 1px solid #eeeeee;
+    padding: 10px;
+}
+
+.major_recommend_box>ul li {
+    font-size: 13px;
+    color: #555555;
+    margin-bottom: 10px;
+}

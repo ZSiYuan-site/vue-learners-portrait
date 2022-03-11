@@ -1,0 +1,84 @@
+/*---team---*/
+.team {
+	background: #F3F3F3;
+	padding: 3em 0 4em;
+	border: 1px solid #DBDBDB;
+	border-right: 0;
+	border-left: 0;
+}
+
+.team-head p {
+	width: 59%;
+	font-weight: 600;
+	color: #5A5A5A;
+	margin: 1.2em auto;
+}
+
+.team-member {
+	background: #FFFFFF;
+	padding: 1em;
+	box-shadow: 0px 1px 2px #999;
+	-webkit-box-shadow: 0px 1px 2px #999;
+	-moz-box-shadow: 0px 1px 2px #999;
+	-o-box-shadow: 0px 1px 2px #999;
+	-ms-box-shadow: 0px 1px 2px #999;
+}
+
+img.t-pic {
+	border-radius: 30em;
+	-webkit-border-radius: 30em;
+	-moz-border-radius: 30em;
+	-o-border-radius: 30em;
+	-ms-border-radius: 30em;
+	border: 3px solid #FFF;
+	box-shadow: 0px 5px 4px #999;
+	-webkit-box-shadow: 0px 5px 4px #999;
+	-moz-box-shadow: 0px 5px 4px #999;
+	-o-box-shadow: 0px 5px 4px #999;
+	-ms-box-shadow: 0px 5px 4px #999;
+}
+
+.team-member h3 {
+	/* text-transform: uppercase; */
+	font-weight: 800;
+	font-size: 1em;
+	margin: 1em 0 0.3em;
+	color: #303030;
+}
+
+.team-member span {
+	font-style: italic;
+	color: #303030;
+}
+
+/*---*/
+.t-social {
+	margin: 1em 0 0.5em;
+}
+
+.t-social li a span {
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	background: url("../images/t-social.png") no-repeat 0px 0px;
+}
+
+.t-social li a.twitter span:hover {
+	background-position: 0px -25px;
+}
+
+.t-social li a.dribbble span {
+	background-position: -35px 0px;
+}
+
+.t-social li a.dribbble span:hover {
+	background-position: -35px -25px;
+}
+
+.t-social li a.in span {
+	background-position: -72px 0px;
+}
+
+.t-social li a.in span:hover {
+	background-position: -72px -25px;
+}

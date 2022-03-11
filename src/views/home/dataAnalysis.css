@@ -1,0 +1,41 @@
+/*  数据分析部分  样式 -开始 */
+.analyse {
+    width: 100%;
+    background-color: #fbfbfc;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+.analyseMiddle {
+    display: flex;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.analyseMiddle div {
+    width: 33.3%;
+}
+
+.analyseMiddleLeft {
+    padding: 10px 20px;
+}
+
+.analyseMiddleLeft div {
+    margin: 20px auto;
+}
+
+/* 这是那个大数字的样式 */
+.bigNumber {
+    font-size: 3em;
+    font-weight: 700;
+    /* color: #4492e3; */
+    color: rgb(60, 128, 201);
+}
+
+/* 这是 小字体 加粗的样式 */
+.smallFont {
+    font-size: 1em;
+    font-weight: bold;
+}
+/*  数据分析部分  样式 -结束 */

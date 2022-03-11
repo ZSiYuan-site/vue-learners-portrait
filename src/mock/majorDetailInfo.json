@@ -1,0 +1,53 @@
+{
+    "code": 200, 
+     
+    "msg": "SUCCESS", 
+     
+    "data": [
+    {
+    "id": "6161a66a049b18521b034835", 
+     
+    "researchDirection": "研究方向：没有", 
+     
+    "mainCourse": "主要课程：没有", 
+     
+    "trainingObjective": "培养目标：人才", 
+     
+    "majorName": "计算机科学与技术", 
+     
+    "careerProspects": "职业前景：暂无", 
+     
+    "status": "1", 
+     
+    "createTime": "2021-10-09 22:25:46", 
+     
+    "publicTime": "2021-10-09 22:33:53", 
+     
+    "updateTime": "2021-10-09 22:48:26" 
+     
+    },
+    {
+    "id": "6161ab868ea9f1169c4ba554", 
+     
+    "researchDirection": "研究方向：日语", 
+     
+    "mainCourse": "主要课程：日语", 
+     
+    "trainingObjective": "培养目标：同传人才", 
+     
+    "majorName": "日语", 
+     
+    "careerProspects": "职业前景：暂无", 
+     
+    "status": "0", 
+     
+    "createTime": "2021-10-09 22:47:33", 
+     
+    "publicTime": null, 
+     
+    "updateTime": "2021-10-09 22:49:59" 
+     
+    }
+    ] 
+     
+    }

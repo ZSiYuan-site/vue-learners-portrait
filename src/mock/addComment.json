@@ -1,0 +1,29 @@
+{
+    "code": 200, 
+     
+    "msg": "success", 
+     
+    "data": {
+    "id": "6162dcfe1ff5371c4cbfdfe8", 
+     
+    "mark": 5, 
+     
+    "content": "内容", 
+     
+    "userId": "用户id", 
+     
+    "nickName": "昵称", 
+     
+    "createDateTime": "2021-10-10 20:30:54", 
+     
+    "likeNum": 0, 
+     
+    "replyNum": 0, 
+     
+    "parentId": "615ebfc04011ae13535030fe", 
+     
+    "courseId": "课程id" 
+     
+    } 
+     
+    }

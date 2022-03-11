@@ -1,0 +1,101 @@
+@media screen and (max-width: 1024px) {
+    html {
+        font-size: 42.66px !important;
+    }
+}
+
+@media screen and (min-width: 1920px) {
+    html {
+        font-size: 80px !important;
+    }
+}
+
+.ability {
+    width: 100%;
+    height: calc(100vh - 60px);
+    background: url('./img/bg.jpg') no-repeat 0 0 / cover;
+    padding: 0 10px;
+}
+
+.ability>h1 {
+    font-size: .3125rem;
+    text-align: center;
+    height: 50px;
+    background-color: green;
+    line-height: 50px;
+    color: #fff;
+}
+
+.ability>.ability-main {
+    display: flex;
+    /* background-color: pink; */
+}
+
+.ability>.ability-main .column {
+    flex: 3;
+}
+
+.ability>.ability-main :nth-child(2) {
+    flex: 4;
+}
+
+/* 边框面板的样式 */
+.panel {
+    position: relative;
+    border: 15px solid transparent;
+    border-width: .6375rem .475rem .25rem 1.65rem;
+    border-image-source: url('./img/border.png');
+    border-image-slice: 51 38 20 132;
+}
+
+.panel>.inner {
+    padding: .25rem;
+    font-size: 10px;
+    position: absolute;
+    top: -0.6375rem;
+    left: -1.65rem;
+    right: -0.475rem;
+    bottom: -0.25rem;
+    /* background-color: rgb(86, 9, 228); */
+}
+
+/* 第一个模块的样式 */
+.overview {
+    height: 2.25rem;
+    color: #fff;
+}
+
+.overview-content {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.overview-content>div {
+    height: .875rem;
+}
+
+.overview-content>.first {
+    /* background-color: red; */
+    width: 60px;
+}
+
+.overview-content>.first>i {
+    font-size: 1rem;
+    color: #019ffa;
+}
+
+.overview-content>.second {
+    /* background-color: rgb(4, 41, 247); */
+    width: 60px;
+    padding: .125rem .25rem;
+}
+
+.overview-content>.second>span {
+    font-size: .25rem;
+}
+
+/* 标题的公共样式 */
+.commonTitle {
+    font-size: 18px;
+}

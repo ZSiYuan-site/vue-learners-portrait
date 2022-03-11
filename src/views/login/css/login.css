@@ -1,0 +1,259 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+#app {
+    width: 100%;
+    height: 100%;
+}
+
+.login {
+    width: 100%;
+    height: 100%;
+    background: url('../img/img_4.jpg') no-repeat;
+    background-size: 100% 115%;
+    position: relative;
+}
+
+/* 遮罩开始 */
+.login>.veil {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    left: 0;
+    bottom: 0;
+}
+
+/* 遮罩结束 */
+
+
+/* 顶部开始 */
+.login>.login_nav {
+    color: #fff;
+    position: absolute;
+    z-index: 2;
+}
+
+.login>.login_nav {
+    padding: 20px 50px;
+    display: flex;
+    width: 100%;
+    height: 100px;
+}
+
+
+.login>.login_nav>.login_nav_left {
+    flex: 6;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+.login>.login_nav>.login_nav_right {
+    flex: 4;
+    color: #b8af9f;
+    display: flex;
+}
+
+.login>.login_nav>.login_nav_right span {
+    width: 60px;
+    height: 60px;
+    display: block;
+    padding: 15px 10px;
+    text-align: center;
+    line-height: 30px;
+}
+
+/* 顶部结束 */
+
+/* 主体左侧文字开始 */
+.login_main {
+    position: absolute;
+    z-index: 2;
+    top: 150px;
+    display: flex;
+}
+
+.login_main>.login_main_text {
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 50px;
+    color: #fff;
+    margin-left: 100px;
+    line-height: 50px;
+    padding-top: 100px;
+}
+
+/* 主体左侧文字结束 */
+
+/* 登录开始 */
+.login_main>.login_wrap {
+    margin-left: 50px;
+    width: 350px;
+    height: 400px;
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* 表单头开始 */
+.login_main>.login_wrap>.login_title {
+    width: 100%;
+    height: 50px;
+    background-color: #b2b2b4;
+    display: flex;
+}
+
+.login_main>.login_wrap>.login_title span {
+    width: 175px;
+    display: block;
+    text-align: center;
+    line-height: 50px;
+}
+
+/* 表单头结束 */
+
+
+
+/* 表单内容开头 */
+.login_page {
+    display: none;
+    padding: 0 35px;
+}
+
+.register_page {
+    display: none;
+    margin-top: 30px;
+    padding: 0 35px;
+}
+
+/* 手机登录--- 手机号 ---输入框 */
+.register_page>.phone_input_wrap {
+    width: 280px;
+    margin: 0 auto;
+    height: 40px;
+    display: flex;
+    border: 1.5px solid #ececec;
+    border-radius: 3px;
+}
+
+.register_page>.phone_input_wrap>input {
+    width: 190px;
+    outline: none;
+    border: 0;
+    padding: 5px;
+    padding-left: 15px;
+}
+
+/* 【获取验证码】 文字 样式---- */
+.getCode_text {
+    font-size: 14px;
+    color: #d7d7d7;
+    line-height: 40px;
+    border: 0;
+    outline: none;
+    background-color: #fff;
+}
+
+/* 【正确手机号】 时--【获取验证码】高亮显示*/
+.right_phone {
+    color: #333;
+}
+
+/* 手机登录 -- 验证码 --- 输入框 */
+.register_page>input {
+    width: 280px;
+    height: 40px;
+    padding: 5px;
+    padding-left: 15px;
+    margin: 0 auto;
+    margin-top: 15px;
+    display: block;
+    border: 1.5px solid #ececec;
+    border-radius: 3px;
+    outline: none;
+}
+
+/* 登录 --- 按钮 */
+.login_button {
+    height: 40px;
+    width: 280px;
+    margin: 25px auto;
+    border: 0 !important;
+    border-radius: 3px;
+    display: block;
+    background-color: #4587d9;
+    color: #fff;
+}
+
+/* 密码登录--- */
+.login_page {
+    margin-top: 30px;
+}
+
+.login_page>input {
+    width: 280px;
+    height: 40px;
+    padding: 5px;
+    padding-left: 15px;
+    margin: 0 auto;
+    margin-top: 15px;
+    display: block;
+    border: 1.5px solid #ececec;
+    border-radius: 3px;
+    outline: none;
+}
+
+.code_wrap {
+    width: 280px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 15px;
+    border: 1.5px solid #ececec;
+    border-radius: 3px;
+    padding: 4px;
+    display: flex;
+}
+
+.code_wrap>input {
+    height: 30px;
+    border: 0;
+    outline: none;
+    width: 180px;
+    padding-left: 15px;
+}
+
+/* 温馨提醒的文字 */
+.register_page>p {
+    font-size: 12px;
+    color: #c5c5c5;
+    width: 280px;
+    margin: 15px auto;
+    line-height: 18px;
+}
+
+/* 表单内容结束 */
+
+
+/* 登录结束 */
+
+/* 激活类 */
+.showPage {
+    display: block;
+}
+
+.showTitle {
+    color: #4587d9;
+    background-color: #fff;
+}

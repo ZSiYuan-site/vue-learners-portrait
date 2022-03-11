@@ -1,0 +1,46 @@
+/* 搜索课程开始 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.search_course_nav {
+    width: 1170px;
+    /* background-color: red; */
+    border-top: 1.5px solid #dddddd;
+    border-bottom: 1.5px solid #dddddd;
+    margin: 20px auto;
+    padding: 15px;
+    display: flex;
+}
+
+.search_course_nav>.coursesLists {
+    display: flex;
+    flex-wrap: wrap;
+    flex: 7.5;
+}
+
+.search_course_nav>.coursesLists li {
+    height: 50px;
+    padding: 5px 15px;
+    text-align: center;
+    line-height: 43px;
+    margin-right: 10px;
+}
+.search_course_nav>.coursesLists li:hover{
+    color: #4587d9;
+    cursor: pointer;
+}
+
+/* 搜索课程开始 */
+.search_course_nav>.searchCourse {
+    flex: 2.5;
+}
+/* 搜索课程结束 */
+
+
+/* 点击文字 高亮*/
+.allCourseText{
+    color: #4587d9;
+}
